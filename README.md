@@ -1,2 +1,1 @@
-# pomodoros_with_flutter
-Pomodoros App with Flutter
+# Pomodoros App with Flutter
